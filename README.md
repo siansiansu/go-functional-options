@@ -1,6 +1,6 @@
 # go-functional-options
 
-This is a demo project for using functional options Pattern, still work in progress.
+This is a demo project about how to use golang functional options pattern.
 
 ## TODO
 
