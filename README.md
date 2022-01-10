@@ -4,8 +4,8 @@ This is a demo project for using functional options Pattern, still work in progr
 
 ## TODO
 
-- [] Use [sqlx](https://github.com/jmoiron/sqlx) package to rewrite.
-- [] Provide Dockerfile.
+- [ ] Use [sqlx](https://github.com/jmoiron/sqlx) package to rewrite.
+- [ ] Provide Dockerfile.
 
 ## Reference
 
